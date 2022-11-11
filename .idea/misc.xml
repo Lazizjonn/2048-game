@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AStudio/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/drawable-v24/bg_item_2.xml" value="0.108" />
+        <entry key="..\:/AStudio/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/drawable-v24/button.xml" value="0.1" />
+        <entry key="..\:/AStudio/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/drawable-v24/ic_reload.xml" value="0.1" />
+        <entry key="..\:/AStudio/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AStudio/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/layout/screen_play.xml" value="0.18333333333333332" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/drawable-v24/bg_item_2048.xml" value="0.1215" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/drawable-v24/ic_reload.xml" value="0.1215" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/drawable-v24/selector_button_start.xml" value="0.1405" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/layout/screen_about.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/layout/screen_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5/Game_2048/app/src/main/res/layout/screen_play.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/drawable-v24/button.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/layout/screen_finish.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/layout/screen_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/AndroidStudioProjects/1_Real_projects/App_5_game_2048/Game_2048/app/src/main/res/layout/screen_play.xml" value="0.19739583333333333" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/drawable-v24/bg_item_0.xml" value="0.104" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/drawable-v24/bg_item_1024.xml" value="0.104" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/content_item_touch.xml" value="0.12318840579710146" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/fragment_settings_screen1.xml" value="0.12318840579710146" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/screen_about.xml" value="0.16" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/screen_main.xml" value="0.25" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/screen_play.xml" value="0.12318840579710146" />
+        <entry key="..\:/Programmming/AndroidStudioProjects/Game_2048/app/src/main/res/layout/screen_setting.xml" value="0.12318840579710146" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
